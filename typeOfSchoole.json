@@ -1,0 +1,131 @@
+{
+  "Thüringen": [
+    "Grundschule",
+    "Regelschule",
+    "Gymnasium",
+    "Gemeinschaftsschule",
+    "Berufsschule",
+    "Förderschule"
+  ],
+  "Baden-Württemberg": [
+    "Grundschule",
+    "Werkrealschule",
+    "Realschule",
+    "Gemeinschaftsschule",
+    "Gymnasium",
+    "Berufsschule",
+    "Förderschule"
+  ],
+  "Bayern": [
+    "Grundschule",
+    "Mittelschule",
+    "Realschule",
+    "Gymnasium",
+    "Wirtschaftsschule",
+    "FOS/BOS",
+    "Berufsschule",
+    "Förderschule"
+  ],
+  "Berlin": [
+    "Grundschule",
+    "Integrierte Sekundarschule",
+    "Gymnasium",
+    "Berufsschule",
+    "Förderschule"
+  ],
+  "Brandenburg": [
+    "Grundschule",
+    "Oberschule",
+    "Gesamtschule",
+    "Gymnasium",
+    "Berufsschule",
+    "Förderschule"
+  ],
+  "Bremen": [
+    "Grundschule",
+    "Oberschule",
+    "Gymnasium",
+    "Berufsschule",
+    "Förderschule"
+  ],
+  "Hamburg": [
+    "Grundschule",
+    "Stadtteilschule",
+    "Gymnasium",
+    "Berufsschule",
+    "Förderschule"
+  ],
+  "Hessen": [
+    "Grundschule",
+    "Hauptschule",
+    "Realschule",
+    "Gesamtschule",
+    "Gymnasium",
+    "Berufsschule",
+    "Förderschule"
+  ],
+  "Mecklenburg-Vorpommern": [
+    "Grundschule",
+    "Regionale Schule",
+    "Gymnasium",
+    "Berufsschule",
+    "Förderschule"
+  ],
+  "Niedersachsen": [
+    "Grundschule",
+    "Hauptschule",
+    "Realschule",
+    "Oberschule",
+    "Gesamtschule",
+    "Gymnasium",
+    "Berufsschule",
+    "Förderschule"
+  ],
+  "Nordrhein-Westfalen": [
+    "Grundschule",
+    "Hauptschule",
+    "Realschule",
+    "Gesamtschule",
+    "Sekundarschule",
+    "Gymnasium",
+    "Berufsschule",
+    "Förderschule"
+  ],
+  "Rheinland-Pfalz": [
+    "Grundschule",
+    "Realschule plus",
+    "Integrierte Gesamtschule",
+    "Gymnasium",
+    "Berufsschule",
+    "Förderschule"
+  ],
+  "Saarland": [
+    "Grundschule",
+    "Gemeinschaftsschule",
+    "Gymnasium",
+    "Berufsschule",
+    "Förderschule"
+  ],
+  "Sachsen": [
+    "Grundschule",
+    "Oberschule",
+    "Gymnasium",
+    "Berufsschule",
+    "Förderschule"
+  ],
+  "Sachsen-Anhalt": [
+    "Grundschule",
+    "Sekundarschule",
+    "Gemeinschaftsschule",
+    "Gymnasium",
+    "Berufsschule",
+    "Förderschule"
+  ],
+  "Schleswig-Holstein": [
+    "Grundschule",
+    "Gemeinschaftsschule",
+    "Gymnasium",
+    "Berufsschule",
+    "Förderschule"
+  ]
+}
