@@ -2336,5 +2336,51 @@
         "content": "<p><b>Was hat das mit dem Alltag zu tun?</b><br>\n• Musik-Apps sortieren Lieder nach Namen, Datum oder Beliebtheit.<br>\n• Online-Shops sortieren Produkte nach Preis.<br>\n• Klassenlisten werden alphabetisch sortiert.<br>\nÜberall dort arbeiten Computer mit Sortieralgorithmen.</p>"
       }
     ]
+  },
+  {
+    "id": "schulhof-parcours-sequenzen",
+    "title": "Informatik 1.2: Der Schulhof-Parcours",
+    "shortDescription": "<p><b>Informatik kann man auch ohne Computer üben!</b><br>In diesem Spiel lernst du, was sequenzielle Anweisungen sind.<br>Sequenziell bedeutet: Die Anweisungen werden Schritt für Schritt in einer festen Reihenfolge ausgeführt.<br>Eine Person gibt genaue Befehle, die andere Person führt sie aus – wie ein Roboter, der ein Programm befolgt.</p>",
+    "subject": "Informatik",
+    "gradeLevel": "7",
+    "schoolType": "Gemeinschaftsschule",
+    "steps": [
+      {
+        "type": "text",
+        "content": "<p><b><u>Der Schulhof-Parcours – Wie führt ein Roboter Befehle aus?</u></b></p>"
+      },
+      {
+        "type": "text",
+        "content": "<p><b>Was du brauchst:</b><br>• Einen freien Bereich auf dem Schulhof<br>• Kreide, Hütchen, Seile oder Markierungen<br>• Kleine Hindernisse, zum Beispiel Bänke, Linien, Reifen oder Pylonen<br>• Zwei Personen: eine Person ist der Roboter, die andere Person ist der Programmierer</p>"
+      },
+      {
+        "type": "text",
+        "content": "<p><b>Vorbereitung:</b><br>1. Baut gemeinsam einen einfachen Parcours auf dem Schulhof auf.<br>2. Markiert einen Startpunkt und ein Ziel.<br>3. Legt Hindernisse fest, zum Beispiel um ein Hütchen herumgehen, über eine Linie steigen oder zwischen zwei Markierungen hindurchlaufen.<br>4. Achtet darauf, dass der Parcours sicher ist und niemand rennen muss.</p>"
+      },
+      {
+        "type": "text",
+        "content": "<p><b>So geht’s:</b><br>1. Eine Person stellt sich als Roboter an den Start.<br>2. Die andere Person ist der Programmierer und gibt nur klare Schritt-für-Schritt-Anweisungen.<br>3. Der Roboter darf nur das tun, was genau gesagt wurde.<br>4. Mögliche Befehle sind: Gehe drei Schritte geradeaus. Drehe dich nach rechts. Drehe dich nach links. Gehe bis zur nächsten Linie. Bleibe stehen.<br>5. Der Programmierer versucht, den Roboter sicher durch den Parcours bis zum Ziel zu führen.</p>"
+      },
+      {
+        "type": "aufgabe",
+        "content": "<p><b>Aufgabe:</b><br>Durchquert den Parcours in Partnerarbeit.<br>Danach tauscht ihr die Rollen: Der Roboter wird zum Programmierer und der Programmierer wird zum Roboter.<br>Versucht beim zweiten Durchgang, die Anweisungen noch genauer zu formulieren.</p>"
+      },
+      {
+        "type": "aufgabe",
+        "content": "<p><b>Was fällt dir auf?</b><br>• Was passiert, wenn eine Anweisung ungenau ist?<br>• Warum ist die Reihenfolge der Befehle wichtig?<br>• Welche Befehle haben gut funktioniert?<br>• Welche Befehle waren missverständlich?<br>• Was müsste man ändern, damit der Roboter den Weg noch sicherer findet?</p>"
+      },
+      {
+        "type": "merksatz",
+        "content": "<p><b>Erklärung:</b><br>In der Informatik arbeitet ein Programm mit genauen Anweisungen.<br>Sequenzielle Anweisungen werden nacheinander ausgeführt: erst Befehl 1, dann Befehl 2, dann Befehl 3.<br>Wenn eine Anweisung fehlt, falsch ist oder in der falschen Reihenfolge steht, kommt der Roboter vielleicht nicht ans Ziel.<br>Computer brauchen deshalb klare, eindeutige und geordnete Befehle.</p>"
+      },
+      {
+        "type": "text",
+        "content": "<p><b>Was hat das mit dem Alltag zu tun?</b><br>• Ein Navigationsgerät gibt dir Schritt für Schritt den Weg vor.<br>• Ein Kochrezept besteht aus Anweisungen in einer festen Reihenfolge.<br>• Ein Computerprogramm führt Befehle genau so aus, wie sie geschrieben wurden.<br>• Auch Roboter in Fabriken oder Staubsaugerroboter folgen festgelegten Anweisungen.</p>"
+      },
+      {
+        "type": "text",
+        "content": "<p><b>Zusatzidee:</b><br>Schreibt nach dem Spiel die Befehle für euren Parcours als kleines Programm auf Papier auf.<br>Testet anschließend, ob ein anderes Team mit euren Anweisungen ebenfalls sicher vom Start zum Ziel kommt.</p>"
+      }
+    ]
   }
 ]
