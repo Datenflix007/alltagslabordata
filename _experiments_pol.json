@@ -1,0 +1,2204 @@
+[
+    {
+      "title": "Mechanika 1.1: Wybijanie klocków",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Wybijanie klocków</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Wybijanie klocków” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Wybijanie klocków” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Wybijanie klocków” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Wybijanie klocków” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Wybijanie klocków” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 1.2: Zwinna rolka",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Zwinna rolka</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Zwinna rolka” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Zwinna rolka” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Zwinna rolka” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Zwinna rolka” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Zwinna rolka” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 1.3: Test z jajkiem",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Test z jajkiem</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Test z jajkiem” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Test z jajkiem” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Test z jajkiem” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 1.4: Kamień w windzie",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Kamień w windzie</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Kamień w windzie” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Kamień w windzie” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Kamień w windzie” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 1.5: Puść i leć!",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Puść i leć!</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Puść i leć!” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Puść i leć!” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Puść i leć!” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 1.6: Luźna główka młotka",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Luźna główka młotka</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Luźna główka młotka” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Luźna główka młotka” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Luźna główka młotka” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 2.1: Superkciuk",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Superkciuk</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Superkciuk” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Superkciuk” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Superkciuk” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 2.2: Wspinająca się puszka",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Wspinająca się puszka</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Wspinająca się puszka” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Wspinająca się puszka” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Wspinająca się puszka” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 2.3: Srebrne kule",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Srebrne kule</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Srebrne kule” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Srebrne kule” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Srebrne kule” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 2.4: Miotła ze środkiem ciężkości",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Miotła ze środkiem ciężkości</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Miotła ze środkiem ciężkości” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Miotła ze środkiem ciężkości” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Miotła ze środkiem ciężkości” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 3.1: Gumowa piłka na huśtawce",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Gumowa piłka na huśtawce</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Gumowa piłka na huśtawce” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Gumowa piłka na huśtawce” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Gumowa piłka na huśtawce” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 3.2: Układ bloczków (wielokrążek)",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Układ bloczków (wielokrążek)</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Układ bloczków (wielokrążek)” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Układ bloczków (wielokrążek)” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Układ bloczków (wielokrążek)” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 3.3: Deska tarcia",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Deska tarcia</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Deska tarcia” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Deska tarcia” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Deska tarcia” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 3.4: Deska na wałkach",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Deska na wałkach</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Deska na wałkach” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Deska na wałkach” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Deska na wałkach” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 4.1: Waga z kanistra",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Waga z kanistra</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Waga z kanistra” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Waga z kanistra” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Waga z kanistra” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 4.2: Huśtawka z haczykami",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Huśtawka z haczykami</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Huśtawka z haczykami” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Huśtawka z haczykami” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Huśtawka z haczykami” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 5.1: Kolorowa plama",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Kolorowa plama</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Kolorowa plama” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Kolorowa plama” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Kolorowa plama” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 5.2: Papier jak kamień",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Papier jak kamień</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Papier jak kamień” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Papier jak kamień” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Papier jak kamień” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 5.3: Szybka reakcja",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Szybka reakcja</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Szybka reakcja” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Szybka reakcja” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Szybka reakcja” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 5.4: Lokomotywa",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Lokomotywa</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Lokomotywa” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Lokomotywa” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Lokomotywa” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 5.5: Skacząca piłeczka",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Skacząca piłeczka</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Skacząca piłeczka” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Skacząca piłeczka” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Skacząca piłeczka” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 6.1: Magiczna kulka",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Magiczna kulka</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Magiczna kulka” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Magiczna kulka” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Magiczna kulka” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 6.2: Ścieżka monet",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Ścieżka monet</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Ścieżka monet” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Ścieżka monet” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Ścieżka monet” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mechanika 6.3: Nauka o rakietach",
+      "shortDescription": "<p><b>\"W mechanice wszystko się porusza!\"</b><br>Tu chodzi o ruch, siły i prędkość.<br>Co się dzieje, gdy coś popchniesz, pociągniesz albo upuścisz?<br>Dlaczego piłka się toczy – i dlaczego po pewnym czasie się zatrzymuje?<br>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w szkole.<br>Wyjaśniamy także:</p>\n\n<ul>\n<li>Co dzieje się przy tym z punktu widzenia fizyki.</li>\n<li>Gdzie możesz zobaczyć to w życiu codziennym.</li>\n</ul>\n\n<p><b>\"Miłej zabawy przy badaniu i eksperymentowaniu! Życzy AlltagsLabor\"</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Nauka o rakietach</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Nauka o rakietach” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Nauka o rakietach” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Nauka o rakietach” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        }
+      ],
+      "schoolType": "szkoła ogólnokształcąca"
+    },
+    {
+      "title": "Mechanika – teoria",
+      "shortDescription": "<p>Tutaj znajdziesz podstawową teorię do działu „Mechanika”. Wiedza ta pomaga lepiej rozumieć doświadczenia, obserwacje oraz najważniejsze pojęcia fizyczne.</p>\n\n<p><b>Miłego odkrywania wiedzy życzy AlltagsLabor!</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mechanika – teoria</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Mechanika – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Mechanika – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Mechanika – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Mechanika – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Mechanika – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Mechanika – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Mechanika – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Mechanika – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Mechanika – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Mechanika – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Mechanika – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Mechanika – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Mechanika – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Mechanika – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Mechanika – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Mechanika – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Mechanika – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Mechanika – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Mechanika – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Mechanika – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Mechanika – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Mechanika – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Mechanika – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Mechanika – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Zadania z mechaniki",
+      "shortDescription": "<p>Tutaj znajdziesz zadania do działu „Mechanika”. Pomagają one sprawdzić rozumienie pojęć, wzorów i typowych zjawisk fizycznych.</p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "steps": [
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Zadania z mechaniki” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Elektryczność 1: Sprawić, by lampka jarzeniowa zaświeciła",
+      "shortDescription": "<p><strong>Elektryczność naprawdę iskrzy ciekawością!</strong><br>Tutaj dowiesz się, czym jest prąd elektryczny, jak przepływa i dlaczego jest tak użyteczny – a czasem także niebezpieczny.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Sprawić, by lampka jarzeniowa zaświeciła</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Sprawić, by lampka jarzeniowa zaświeciła” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Sprawić, by lampka jarzeniowa zaświeciła” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Sprawić, by lampka jarzeniowa zaświeciła” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Sprawić, by lampka jarzeniowa zaświeciła” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Elektryczność 2: Przyciąganie spinaczy naładowanym grzebieniem",
+      "shortDescription": "<p><strong>Elektryczność naprawdę iskrzy ciekawością!</strong><br>Tutaj dowiesz się, czym jest prąd elektryczny, jak przepływa i dlaczego jest tak użyteczny – a czasem także niebezpieczny.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Przyciąganie spinaczy naładowanym grzebieniem</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Przyciąganie spinaczy naładowanym grzebieniem” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Przyciąganie spinaczy naładowanym grzebieniem” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Przyciąganie spinaczy naładowanym grzebieniem” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Przyciąganie spinaczy naładowanym grzebieniem” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Elektryczność 3: Naelektryzować gwóźdź przez pocieranie",
+      "shortDescription": "<p><strong>Elektryczność naprawdę iskrzy ciekawością!</strong><br>Tutaj dowiesz się, czym jest prąd elektryczny, jak przepływa i dlaczego jest tak użyteczny – a czasem także niebezpieczny.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Naelektryzować gwóźdź przez pocieranie</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Naelektryzować gwóźdź przez pocieranie” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Naelektryzować gwóźdź przez pocieranie” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Naelektryzować gwóźdź przez pocieranie” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Naelektryzować gwóźdź przez pocieranie” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Elektryczność 4: Przyciąganie małych kawałków papieru naładowanym prętem plastikowym",
+      "shortDescription": "<p><strong>Elektryczność naprawdę iskrzy ciekawością!</strong><br>Tutaj dowiesz się, czym jest prąd elektryczny, jak przepływa i dlaczego jest tak użyteczny – a czasem także niebezpieczny.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Przyciąganie małych kawałków papieru naładowanym prętem plastikowym</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Przyciąganie małych kawałków papieru naładowanym prętem plastikowym” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Przyciąganie małych kawałków papieru naładowanym prętem plastikowym” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Przyciąganie małych kawałków papieru naładowanym prętem plastikowym” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Przyciąganie małych kawałków papieru naładowanym prętem plastikowym” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Elektryczność 5: Uwidocznić linie pola elektrycznego za pomocą papierków",
+      "shortDescription": "<p><strong>Elektryczność naprawdę iskrzy ciekawością!</strong><br>Tutaj dowiesz się, czym jest prąd elektryczny, jak przepływa i dlaczego jest tak użyteczny – a czasem także niebezpieczny.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Uwidocznić linie pola elektrycznego za pomocą papierków</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Uwidocznić linie pola elektrycznego za pomocą papierków” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Uwidocznić linie pola elektrycznego za pomocą papierków” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Uwidocznić linie pola elektrycznego za pomocą papierków” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Uwidocznić linie pola elektrycznego za pomocą papierków” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Elektryczność 6: Wyznaczyć linie pola za pomocą małych kompasów",
+      "shortDescription": "<p><strong>Elektryczność naprawdę iskrzy ciekawością!</strong><br>Tutaj dowiesz się, czym jest prąd elektryczny, jak przepływa i dlaczego jest tak użyteczny – a czasem także niebezpieczny.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Wyznaczyć linie pola za pomocą małych kompasów</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Wyznaczyć linie pola za pomocą małych kompasów” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Wyznaczyć linie pola za pomocą małych kompasów” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Wyznaczyć linie pola za pomocą małych kompasów” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Wyznaczyć linie pola za pomocą małych kompasów” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Elektryczność 7: Potrzeć balon o włosy i przykleić go do ściany",
+      "shortDescription": "<p><strong>Elektryczność naprawdę iskrzy ciekawością!</strong><br>Tutaj dowiesz się, czym jest prąd elektryczny, jak przepływa i dlaczego jest tak użyteczny – a czasem także niebezpieczny.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Potrzeć balon o włosy i przykleić go do ściany</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Potrzeć balon o włosy i przykleić go do ściany” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Potrzeć balon o włosy i przykleić go do ściany” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Potrzeć balon o włosy i przykleić go do ściany” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Potrzeć balon o włosy i przykleić go do ściany” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Elektryczność 8: Dwa naładowane pręty plastikowe – odpychanie i przyciąganie",
+      "shortDescription": "<p><strong>Elektryczność naprawdę iskrzy ciekawością!</strong><br>Tutaj dowiesz się, czym jest prąd elektryczny, jak przepływa i dlaczego jest tak użyteczny – a czasem także niebezpieczny.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Dwa naładowane pręty plastikowe – odpychanie i przyciąganie</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Dwa naładowane pręty plastikowe – odpychanie i przyciąganie” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Dwa naładowane pręty plastikowe – odpychanie i przyciąganie” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Dwa naładowane pręty plastikowe – odpychanie i przyciąganie” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Dwa naładowane pręty plastikowe – odpychanie i przyciąganie” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Elektryczność 9: Budowa prostego elektroskopu",
+      "shortDescription": "<p><strong>Elektryczność naprawdę iskrzy ciekawością!</strong><br>Tutaj dowiesz się, czym jest prąd elektryczny, jak przepływa i dlaczego jest tak użyteczny – a czasem także niebezpieczny.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Budowa prostego elektroskopu</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Budowa prostego elektroskopu” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Budowa prostego elektroskopu” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Budowa prostego elektroskopu” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Budowa prostego elektroskopu” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Elektryczność 10: Rozładowanie elektroskopu przez odprowadzenie ładunku",
+      "shortDescription": "<p><strong>Elektryczność naprawdę iskrzy ciekawością!</strong><br>Tutaj dowiesz się, czym jest prąd elektryczny, jak przepływa i dlaczego jest tak użyteczny – a czasem także niebezpieczny.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Rozładowanie elektroskopu przez odprowadzenie ładunku</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Rozładowanie elektroskopu przez odprowadzenie ładunku” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Rozładowanie elektroskopu przez odprowadzenie ładunku” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Rozładowanie elektroskopu przez odprowadzenie ładunku” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Rozładowanie elektroskopu przez odprowadzenie ładunku” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Elektryczność 11: Wytwarzanie prądu przez ruch magnesu w cewce",
+      "shortDescription": "<p><strong>Elektryczność naprawdę iskrzy ciekawością!</strong><br>Tutaj dowiesz się, czym jest prąd elektryczny, jak przepływa i dlaczego jest tak użyteczny – a czasem także niebezpieczny.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Wytwarzanie prądu przez ruch magnesu w cewce</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Wytwarzanie prądu przez ruch magnesu w cewce” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Wytwarzanie prądu przez ruch magnesu w cewce” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Wytwarzanie prądu przez ruch magnesu w cewce” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Wytwarzanie prądu przez ruch magnesu w cewce” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Elektryczność 12: Zbudować transformator z dwóch cewek i żelaznego rdzenia",
+      "shortDescription": "<p><strong>Elektryczność naprawdę iskrzy ciekawością!</strong><br>Tutaj dowiesz się, czym jest prąd elektryczny, jak przepływa i dlaczego jest tak użyteczny – a czasem także niebezpieczny.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Zbudować transformator z dwóch cewek i żelaznego rdzenia</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Zbudować transformator z dwóch cewek i żelaznego rdzenia” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Zbudować transformator z dwóch cewek i żelaznego rdzenia” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Zbudować transformator z dwóch cewek i żelaznego rdzenia” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Zbudować transformator z dwóch cewek i żelaznego rdzenia” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Elektryczność – teoria",
+      "shortDescription": "<p>Tutaj znajdziesz podstawową teorię do działu „Elektryczność”. Wiedza ta pomaga lepiej rozumieć doświadczenia, obserwacje oraz najważniejsze pojęcia fizyczne.</p>\n\n<p><b>Miłego odkrywania wiedzy życzy AlltagsLabor!</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Elektryczność – teoria</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Elektryczność – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Elektryczność – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Elektryczność – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Elektryczność – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Elektryczność – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Elektryczność – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Elektryczność – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Elektryczność – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Elektryczność – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Elektryczność – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Elektryczność – teoria",
+      "shortDescription": "<p>Tutaj znajdziesz podstawową teorię do działu „Elektryczność”. Wiedza ta pomaga lepiej rozumieć doświadczenia, obserwacje oraz najważniejsze pojęcia fizyczne.</p>\n\n<p><b>Miłego odkrywania wiedzy życzy AlltagsLabor!</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Elektryczność – teoria</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Elektryczność – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Elektryczność – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Elektryczność – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Elektryczność – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Elektryczność – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Elektryczność – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Elektryczność – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Elektryczność – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Elektryczność – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Elektryczność – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Ciepło 1.1: Odczuwać temperaturę",
+      "shortDescription": "<p><strong>Ciepło wprawia wszystko w ruch!</strong><br>Tutaj chodzi o temperaturę, energię cieplną, przewodzenie ciepła i zmiany stanów skupienia.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Odczuwać temperaturę</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Odczuwać temperaturę” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Odczuwać temperaturę” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Odczuwać temperaturę” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Ciepło 1.2: Jak działa termometr?",
+      "shortDescription": "<p><strong>Ciepło wprawia wszystko w ruch!</strong><br>Tutaj chodzi o temperaturę, energię cieplną, przewodzenie ciepła i zmiany stanów skupienia.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Jak działa termometr?</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Jak działa termometr?” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Jak działa termometr?” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Jak działa termometr?” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Ciepło 1.3: Od ciepła do ruchu",
+      "shortDescription": "<p><strong>Ciepło wprawia wszystko w ruch!</strong><br>Tutaj chodzi o temperaturę, energię cieplną, przewodzenie ciepła i zmiany stanów skupienia.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Od ciepła do ruchu</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Od ciepła do ruchu” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Od ciepła do ruchu” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Od ciepła do ruchu” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Ciepło 1.4: Jak powietrze napełnia balon?",
+      "shortDescription": "<p><strong>Ciepło wprawia wszystko w ruch!</strong><br>Tutaj chodzi o temperaturę, energię cieplną, przewodzenie ciepła i zmiany stanów skupienia.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Jak powietrze napełnia balon?</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Jak powietrze napełnia balon?” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Jak powietrze napełnia balon?” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Jak powietrze napełnia balon?” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Ciepło 2.1.1: Dlaczego lód pływa?",
+      "shortDescription": "<p><strong>Ciepło wprawia wszystko w ruch!</strong><br>Tutaj chodzi o temperaturę, energię cieplną, przewodzenie ciepła i zmiany stanów skupienia.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Dlaczego lód pływa?</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Dlaczego lód pływa?” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Dlaczego lód pływa?” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Dlaczego lód pływa?” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Ciepło 2.1.2: Mimo upału chłód pozostaje",
+      "shortDescription": "<p><strong>Ciepło wprawia wszystko w ruch!</strong><br>Tutaj chodzi o temperaturę, energię cieplną, przewodzenie ciepła i zmiany stanów skupienia.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mimo upału chłód pozostaje</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Mimo upału chłód pozostaje” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Mimo upału chłód pozostaje” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Mimo upału chłód pozostaje” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Ciepło 3.1.1: Gdy puszki się zgniatają",
+      "shortDescription": "<p><strong>Ciepło wprawia wszystko w ruch!</strong><br>Tutaj chodzi o temperaturę, energię cieplną, przewodzenie ciepła i zmiany stanów skupienia.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Gdy puszki się zgniatają</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Gdy puszki się zgniatają” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Gdy puszki się zgniatają” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Gdy puszki się zgniatają” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Ciepło 3.1.2: Jak para znowu staje się wodą",
+      "shortDescription": "<p><strong>Ciepło wprawia wszystko w ruch!</strong><br>Tutaj chodzi o temperaturę, energię cieplną, przewodzenie ciepła i zmiany stanów skupienia.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Jak para znowu staje się wodą</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Jak para znowu staje się wodą” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Jak para znowu staje się wodą” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Jak para znowu staje się wodą” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Jak para znowu staje się wodą” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Jak para znowu staje się wodą” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Jak para znowu staje się wodą” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Jak para znowu staje się wodą” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Ciepło 3.1.3: Ochrona przed zamarzaniem",
+      "shortDescription": "<p><strong>Ciepło wprawia wszystko w ruch!</strong><br>Tutaj chodzi o temperaturę, energię cieplną, przewodzenie ciepła i zmiany stanów skupienia.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Ochrona przed zamarzaniem</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Ochrona przed zamarzaniem” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Ochrona przed zamarzaniem” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Ochrona przed zamarzaniem” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Ciepło 4.1.1: Wyginający się drut",
+      "shortDescription": "<p><strong>Ciepło wprawia wszystko w ruch!</strong><br>Tutaj chodzi o temperaturę, energię cieplną, przewodzenie ciepła i zmiany stanów skupienia.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Wyginający się drut</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Wyginający się drut” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Wyginający się drut” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Wyginający się drut” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Ciepło 5.1.1: Przewodzenie ciepła",
+      "shortDescription": "<p><strong>Ciepło wprawia wszystko w ruch!</strong><br>Tutaj chodzi o temperaturę, energię cieplną, przewodzenie ciepła i zmiany stanów skupienia.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Przewodzenie ciepła</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Przewodzenie ciepła” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Przewodzenie ciepła” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Przewodzenie ciepła” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Ciepło 5.1.2: Termos",
+      "shortDescription": "<p><strong>Ciepło wprawia wszystko w ruch!</strong><br>Tutaj chodzi o temperaturę, energię cieplną, przewodzenie ciepła i zmiany stanów skupienia.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Termos</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Termos” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Termos” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Termos” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Nauka o cieple 6.1.1: Centralne ogrzewanie",
+      "shortDescription": "<p><strong>Ciepło wprawia wszystko w ruch!</strong><br>Tutaj chodzi o temperaturę, energię cieplną, przewodzenie ciepła i zmiany stanów skupienia.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Centralne ogrzewanie</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Centralne ogrzewanie” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Centralne ogrzewanie” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Centralne ogrzewanie” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Nauka o cieple 6.1.2: Szklany dom",
+      "shortDescription": "<p><strong>Ciepło wprawia wszystko w ruch!</strong><br>Tutaj chodzi o temperaturę, energię cieplną, przewodzenie ciepła i zmiany stanów skupienia.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Szklany dom</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Szklany dom” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Szklany dom” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Szklany dom” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Nauka o cieple – teoria",
+      "shortDescription": "<p>Tutaj znajdziesz podstawową teorię do działu „Nauka o cieple”. Wiedza ta pomaga lepiej rozumieć doświadczenia, obserwacje oraz najważniejsze pojęcia fizyczne.</p>\n\n<p><b>Miłego odkrywania wiedzy życzy AlltagsLabor!</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Nauka o cieple – teoria</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Nauka o cieple – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Nauka o cieple – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Nauka o cieple – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Zadania z nauki o cieple",
+      "shortDescription": "<p>Tutaj znajdziesz zadania do działu „Ciepło”. Pomagają one sprawdzić rozumienie pojęć, wzorów i typowych zjawisk fizycznych.</p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Zadania z nauki o cieple” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Optyka 1: Prostoliniowe rozchodzenie się światła",
+      "shortDescription": "<p><strong>W optyce wszystko staje się jasne!</strong><br>Tutaj chodzi o to, jak działa światło, jak widzimy i dlaczego czasem coś wygląda inaczej, niż jest naprawdę.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Prostoliniowe rozchodzenie się światła</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Prostoliniowe rozchodzenie się światła” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Prostoliniowe rozchodzenie się światła” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Prostoliniowe rozchodzenie się światła” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Optyka 2: Pochłanianie światła przez kolory",
+      "shortDescription": "<p><strong>W optyce wszystko staje się jasne!</strong><br>Tutaj chodzi o to, jak działa światło, jak widzimy i dlaczego czasem coś wygląda inaczej, niż jest naprawdę.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Pochłanianie światła przez kolory</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Pochłanianie światła przez kolory” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Pochłanianie światła przez kolory” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Pochłanianie światła przez kolory” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Optyka 3: Cień, cień całkowity i półcień",
+      "shortDescription": "<p><strong>W optyce wszystko staje się jasne!</strong><br>Tutaj chodzi o to, jak działa światło, jak widzimy i dlaczego czasem coś wygląda inaczej, niż jest naprawdę.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Cień, cień całkowity i półcień</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Cień, cień całkowity i półcień” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Cień, cień całkowity i półcień” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Cień, cień całkowity i półcień” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Optyka 4: Uwidocznić barwy widmowe",
+      "shortDescription": "<p><strong>W optyce wszystko staje się jasne!</strong><br>Tutaj chodzi o to, jak działa światło, jak widzimy i dlaczego czasem coś wygląda inaczej, niż jest naprawdę.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Uwidocznić barwy widmowe</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Uwidocznić barwy widmowe” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Uwidocznić barwy widmowe” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Uwidocznić barwy widmowe” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ],
+      "schoolType": "szkoła ogólnokształcąca"
+    },
+    {
+      "title": "Optyka 5: Odbicie światła",
+      "shortDescription": "<p><strong>W optyce wszystko staje się jasne!</strong><br>Tutaj chodzi o to, jak działa światło, jak widzimy i dlaczego czasem coś wygląda inaczej, niż jest naprawdę.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Odbicie światła</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Odbicie światła” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Odbicie światła” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Odbicie światła” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Optyka 6: Odbicie światła od zwierciadła wklęsłego",
+      "shortDescription": "<p><strong>W optyce wszystko staje się jasne!</strong><br>Tutaj chodzi o to, jak działa światło, jak widzimy i dlaczego czasem coś wygląda inaczej, niż jest naprawdę.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Odbicie światła od zwierciadła wklęsłego</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Odbicie światła od zwierciadła wklęsłego” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Odbicie światła od zwierciadła wklęsłego” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Odbicie światła od zwierciadła wklęsłego” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Optyka 7: Załamanie światła w wodzie",
+      "shortDescription": "<p><strong>W optyce wszystko staje się jasne!</strong><br>Tutaj chodzi o to, jak działa światło, jak widzimy i dlaczego czasem coś wygląda inaczej, niż jest naprawdę.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Załamanie światła w wodzie</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Załamanie światła w wodzie” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Załamanie światła w wodzie” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Załamanie światła w wodzie” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Optyka 8: Kropla wody jako lupa",
+      "shortDescription": "<p><strong>W optyce wszystko staje się jasne!</strong><br>Tutaj chodzi o to, jak działa światło, jak widzimy i dlaczego czasem coś wygląda inaczej, niż jest naprawdę.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Kropla wody jako lupa</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Kropla wody jako lupa” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Kropla wody jako lupa” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Kropla wody jako lupa” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Optyka 9: Optyka kolorów",
+      "shortDescription": "<p><strong>W optyce wszystko staje się jasne!</strong><br>Tutaj chodzi o to, jak działa światło, jak widzimy i dlaczego czasem coś wygląda inaczej, niż jest naprawdę.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Optyka kolorów</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Optyka kolorów” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Optyka kolorów” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Optyka kolorów” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Optyka kolorów” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Optyka 10: Kula ognia",
+      "shortDescription": "<p><strong>W optyce wszystko staje się jasne!</strong><br>Tutaj chodzi o to, jak działa światło, jak widzimy i dlaczego czasem coś wygląda inaczej, niż jest naprawdę.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Kula ognia</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Kula ognia” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Kula ognia” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Kula ognia” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Optyka 11: Camera obscura (kamera otworkowa)",
+      "shortDescription": "<p><strong>W optyce wszystko staje się jasne!</strong><br>Tutaj chodzi o to, jak działa światło, jak widzimy i dlaczego czasem coś wygląda inaczej, niż jest naprawdę.</p>\n\n<p>Na tej stronie znajdziesz proste doświadczenia.<br>Możesz łatwo wykonać je w domu albo w szkole.</p>\n\n<p>Wyjaśniamy także:<br>– Co dzieje się przy tym z punktu widzenia fizyki.<br>– Gdzie możesz zobaczyć to w życiu codziennym.</p>\n\n<p><strong>Miłej zabawy przy badaniu i eksperymentowaniu!<br>Życzy AlltagsLabor</strong></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Camera obscura (kamera otworkowa)</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Camera obscura (kamera otworkowa)” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Camera obscura (kamera otworkowa)” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Camera obscura (kamera otworkowa)” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Optyka – teoria",
+      "shortDescription": "<p>Tutaj znajdziesz podstawową teorię do działu „Optyka”. Wiedza ta pomaga lepiej rozumieć doświadczenia, obserwacje oraz najważniejsze pojęcia fizyczne.</p>\n\n<p><b>Miłego odkrywania wiedzy życzy AlltagsLabor!</b></p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Optyka – teoria</u></b></p>\n\n<p><b>Co jest potrzebne:</b><br>Przygotuj materiały podane w opisie doświadczenia i pracuj ostrożnie. W razie potrzeby poproś nauczyciela lub nauczycielkę o pomoc.</p>\n\n<p><b>Przebieg:</b><br>Wykonuj doświadczenie krok po kroku. Obserwuj dokładnie, co się zmienia, i zapisuj swoje spostrzeżenia.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Optyka – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Optyka – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Optyka – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Optyka – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Optyka – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Optyka – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Optyka – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Optyka – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Optyka – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Optyka – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Optyka – teoria” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Optyka – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Życie codzienne i fizyka:</b><br>Efekt z doświadczenia „Optyka – teoria” można spotkać także poza szkołą. Zwróć uwagę, gdzie podobne zjawisko występuje w technice, przyrodzie albo codziennych czynnościach.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Optyka – zadania",
+      "shortDescription": "<p>Tutaj znajdziesz zadania do działu „Optyka”. Pomagają one sprawdzić rozumienie pojęć, wzorów i typowych zjawisk fizycznych.</p>",
+      "subject": "Fizyka",
+      "gradeLevel": "7",
+      "schoolType": "szkoła ogólnokształcąca",
+      "steps": [
+        {
+          "type": "aufgabe",
+          "content": "<p><b>Co obserwujesz?</b><br>• Wykonaj doświadczenie „Optyka – zadania” uważnie i zanotuj najważniejsze zmiany.<br>• Porównaj wynik przed wykonaniem czynności i po niej.<br>• Zastanów się, która siła, energia albo właściwość materiału wyjaśnia obserwację.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Wyjaśnienie:</b><br>Doświadczenie „Optyka – zadania” pokazuje podstawową zasadę fizyczną. Obserwowany efekt wynika z oddziaływania sił, energii, ruchu, ładunków elektrycznych, ciepła albo światła – zależnie od działu. Ważne jest, aby połączyć obserwację z pojęciem fizycznym i przykładem z codzienności.</p>"
+        }
+      ]
+    }
+  ]

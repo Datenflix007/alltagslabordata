@@ -1,0 +1,2306 @@
+[
+    {
+      "title": "Mecánica 1.1: Golpear piedras",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 1.1: Golpear piedras</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>En este experimento se observa la inercia: un cuerpo en reposo tiende a permanecer en reposo.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>En este experimento se observa la inercia: un cuerpo en reposo tiende a permanecer en reposo.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 1.2: Rollo rápido",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 1.2: Rollo rápido</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Si tiras despacio, el rollo puede girar; si tiras de golpe, la inercia del rollo hace que el papel se rompa.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Si tiras despacio, el rollo puede girar; si tiras de golpe, la inercia del rollo hace que el papel se rompa.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Si tiras despacio, el rollo puede girar; si tiras de golpe, la inercia del rollo hace que el papel se rompa.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 1.3: La prueba del huevo",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 1.3: La prueba del huevo</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>En el huevo crudo, el líquido interior sigue el movimiento con retraso; en el huevo cocido toda la masa gira como una unidad.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 1.4: Piedra en el ascensor",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 1.4: Piedra en el ascensor</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Cuando el ascensor acelera, cambia la fuerza de apoyo y el cuerpo se siente más pesado o más ligero.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Cuando el ascensor acelera, cambia la fuerza de apoyo y el cuerpo se siente más pesado o más ligero.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 1.5: Sopla y muévelo",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 1.5: Sopla y muévelo</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Más masa significa más inercia: un objeto pesado cuesta más ponerlo en movimiento y también cuesta más detenerlo.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Más masa significa más inercia: un objeto pesado cuesta más ponerlo en movimiento y también cuesta más detenerlo.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 1.6: Cabeza de martillo suelta",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 1.6: Cabeza de martillo suelta</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Gracias a la inercia, la cabeza del martillo se queda momentáneamente atrás y el mango entra mejor en ella.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Gracias a la inercia, la cabeza del martillo se queda momentáneamente atrás y el mango entra mejor en ella.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 2.1: Superpulgar",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 2.1: Superpulgar</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Para levantarse, el centro de gravedad debe desplazarse sobre los pies; una pequeña presión en la frente lo impide.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Para levantarse, el centro de gravedad debe desplazarse sobre los pies; una pequeña presión en la frente lo impide.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 2.2: La lata trepadora",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 2.2: La lata trepadora</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Por el desplazamiento del centro de gravedad, la lata rueda de modo que la masa interior alcanza una posición más baja.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Por el desplazamiento del centro de gravedad, la lata rueda de modo que la masa interior alcanza una posición más baja.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 2.3: Bolas plateadas",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 2.3: Bolas plateadas</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Dos objetos que parecen iguales pueden moverse de forma muy distinta si su masa está distribuida de manera diferente.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Dos objetos que parecen iguales pueden moverse de forma muy distinta si su masa está distribuida de manera diferente.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 2.4: Escoba y centro de gravedad",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 2.4: Escoba y centro de gravedad</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Los dedos se encuentran automáticamente en el punto donde el objeto queda equilibrado: el centro de gravedad.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Los dedos se encuentran automáticamente en el punto donde el objeto queda equilibrado: el centro de gravedad.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 3.1: Balancín con pelota saltarina",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 3.1: Balancín con pelota saltarina</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>La fuerza y la distancia al eje producen un momento de giro que puede lanzar hacia arriba un objeto pequeño.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>La fuerza y la distancia al eje producen un momento de giro que puede lanzar hacia arriba un objeto pequeño.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 3.2: La polea compuesta",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 3.2: La polea compuesta</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Una polea compuesta reduce la fuerza necesaria, pero a cambio hay que tirar de más cuerda.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Una polea compuesta reduce la fuerza necesaria, pero a cambio hay que tirar de más cuerda.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 3.3: Tabla de rozamiento",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 3.3: Tabla de rozamiento</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>El rozamiento depende sobre todo de la fuerza normal y del tipo de superficie; más peso suele aumentar el rozamiento.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>El rozamiento depende sobre todo de la fuerza normal y del tipo de superficie; más peso suele aumentar el rozamiento.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 3.4: Tabla con rodillos",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 3.4: Tabla con rodillos</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Rodar suele requerir menos fuerza que arrastrar, porque la resistencia de rodadura es menor que el rozamiento por deslizamiento.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Rodar suele requerir menos fuerza que arrastrar, porque la resistencia de rodadura es menor que el rozamiento por deslizamiento.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 4.1: Balanza con bidón",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 4.1: Balanza con bidón</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>El estiramiento de un muelle depende de la fuerza del peso; por eso se puede usar para medir masas.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>El estiramiento de un muelle depende de la fuerza del peso; por eso se puede usar para medir masas.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 4.2: Balancín de ganchos",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 4.2: Balancín de ganchos</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Hay equilibrio cuando los momentos de giro de ambos lados son iguales: fuerza por distancia al eje.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Hay equilibrio cuando los momentos de giro de ambos lados son iguales: fuerza por distancia al eje.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 5.1: La mancha de color",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 5.1: La mancha de color</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Cuanto mayor es la altura de caída, más energía potencial se transforma en energía cinética y mayor se vuelve la mancha.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 5.2: Papel igual que piedra",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 5.2: Papel igual que piedra</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>La diferencia en la velocidad de caída en el aire depende sobre todo de la resistencia del aire y de la forma del objeto.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>La diferencia en la velocidad de caída en el aire depende sobre todo de la resistencia del aire y de la forma del objeto.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 5.3: Reacción rápida",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 5.3: Reacción rápida</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>La regla acelera al caer; un número menor al atraparla indica una reacción más rápida.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>La regla acelera al caer; un número menor al atraparla indica una reacción más rápida.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 5.4: La locomotora",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 5.4: La locomotora</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Midiendo la distancia y el tiempo se puede calcular la velocidad media y estudiar el movimiento uniforme.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Midiendo la distancia y el tiempo se puede calcular la velocidad media y estudiar el movimiento uniforme.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 5.5: Pelota saltarina",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 5.5: Pelota saltarina</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Durante el choque, parte de la energía se transforma en calor, sonido y deformación; por eso la pelota no vuelve a la altura inicial.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Durante el choque, parte de la energía se transforma en calor, sonido y deformación; por eso la pelota no vuelve a la altura inicial.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 6.1: La bola mágica",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 6.1: La bola mágica</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>La vibración se transmite de un cuerpo a otro y puede producir un movimiento oscilante.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>La vibración se transmite de un cuerpo a otro y puede producir un movimiento oscilante.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 6.2: Pista para monedas",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 6.2: Pista para monedas</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>La trayectoria de la moneda muestra cómo la fuerza, el rozamiento y la forma del camino influyen en el movimiento.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>La trayectoria de la moneda muestra cómo la fuerza, el rozamiento y la forma del camino influyen en el movimiento.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Mecánica 6.3: Ciencia de cohetes",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Mecánica 6.3: Ciencia de cohetes</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con movimiento, fuerza, masa, equilibrio y energía?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>El movimiento del cohete se basa en acción y reacción: los gases salen hacia atrás y el cohete avanza.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>El movimiento del cohete se basa en acción y reacción: los gases salen hacia atrás y el cohete avanza.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        }
+      ],
+      "schoolType": "Escuela comunitaria"
+    },
+    {
+      "title": "Teoría de la mecánica",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Teoría de la mecánica</u></b></p><p>En esta sección se explican de forma breve los conceptos básicos de movimiento, fuerza, masa, equilibrio y energía. El objetivo es aclarar los términos y principios principales antes de realizar los experimentos.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de movimiento, fuerza, masa, equilibrio y energía y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        }
+      ],
+      "schoolType": "Escuela comunitaria"
+    },
+    {
+      "title": "Tareas de mecánica",
+      "shortDescription": "<p><b>«¡En la mecánica todo gira en torno al movimiento, las fuerzas y el equilibrio!»</b><br>En esta sección investigarás cómo se mueven los cuerpos, por qué se detienen y qué efecto tienen las fuerzas.<br>Los experimentos son sencillos y se pueden realizar fácilmente en clase.</p><ul><li>Observa qué ocurre.</li><li>Explica el fenómeno físico con palabras sencillas.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "steps": [
+        {
+          "type": "aufgabe",
+          "content": "<p><b><u>Tareas de mecánica</u></b></p><p>Esta sección sirve para practicar y comprobar la comprensión. Las respuestas deben ser breves, precisas y apoyarse en las observaciones del experimento.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Tarea:</b><br>1. Describe el fenómeno observado.<br>2. Nombra el concepto físico relacionado.<br>3. Escribe un ejemplo de la vida cotidiana.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Tarea:</b><br>1. Describe el fenómeno observado.<br>2. Nombra el concepto físico relacionado.<br>3. Escribe un ejemplo de la vida cotidiana.</p>"
+        }
+      ],
+      "schoolType": "Escuela comunitaria"
+    },
+    {
+      "title": "Electricidad 1: Hacer visibles las líneas de campo magnético con limaduras de hierro",
+      "shortDescription": "<p><b>«En la electricidad entran en juego las cargas y los campos!»</b><br>En esta sección trabajarás con imanes, cargas eléctricas, corriente e inducción electromagnética.<br>El objetivo es hacer visibles fenómenos que normalmente no se ven.</p><ul><li>Observa el efecto de las cargas y los campos.</li><li>Relaciona el resultado con situaciones de la vida cotidiana.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Electricidad 1: Hacer visibles las líneas de campo magnético con limaduras de hierro</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con cargas eléctricas, corriente, campo magnético e inducción?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Las limaduras de hierro se orientan a lo largo de las líneas del campo magnético y hacen visible el campo.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con cargas eléctricas, corriente, campo magnético e inducción?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Electricidad 2: ¿Cuántos clips puede sostener un imán?",
+      "shortDescription": "<p><b>«En la electricidad entran en juego las cargas y los campos!»</b><br>En esta sección trabajarás con imanes, cargas eléctricas, corriente e inducción electromagnética.<br>El objetivo es hacer visibles fenómenos que normalmente no se ven.</p><ul><li>Observa el efecto de las cargas y los campos.</li><li>Relaciona el resultado con situaciones de la vida cotidiana.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Electricidad 2: ¿Cuántos clips puede sostener un imán?</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con cargas eléctricas, corriente, campo magnético e inducción?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>La fuerza de un imán puede estimarse contando cuántos clips puede sostener en cadena.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>La fuerza de un imán puede estimarse contando cuántos clips puede sostener en cadena.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con cargas eléctricas, corriente, campo magnético e inducción?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Electricidad 3: Magnetizar un clavo por frotamiento",
+      "shortDescription": "<p><b>«En la electricidad entran en juego las cargas y los campos!»</b><br>En esta sección trabajarás con imanes, cargas eléctricas, corriente e inducción electromagnética.<br>El objetivo es hacer visibles fenómenos que normalmente no se ven.</p><ul><li>Observa el efecto de las cargas y los campos.</li><li>Relaciona el resultado con situaciones de la vida cotidiana.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Electricidad 3: Magnetizar un clavo por frotamiento</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con cargas eléctricas, corriente, campo magnético e inducción?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Al frotar con un imán, se alinean regiones magnéticas del clavo.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Al frotar con un imán, se alinean regiones magnéticas del clavo.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con cargas eléctricas, corriente, campo magnético e inducción?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Electricidad 4: Desmagnetizar con golpes de martillo",
+      "shortDescription": "<p><b>«En la electricidad entran en juego las cargas y los campos!»</b><br>En esta sección trabajarás con imanes, cargas eléctricas, corriente e inducción electromagnética.<br>El objetivo es hacer visibles fenómenos que normalmente no se ven.</p><ul><li>Observa el efecto de las cargas y los campos.</li><li>Relaciona el resultado con situaciones de la vida cotidiana.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Electricidad 4: Desmagnetizar con golpes de martillo</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con cargas eléctricas, corriente, campo magnético e inducción?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Los golpes pueden desordenar las regiones magnéticas y reducir el magnetismo.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Los golpes pueden desordenar las regiones magnéticas y reducir el magnetismo.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con cargas eléctricas, corriente, campo magnético e inducción?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Electricidad 5: Campo magnético de un conductor con corriente",
+      "shortDescription": "<p><b>«En la electricidad entran en juego las cargas y los campos!»</b><br>En esta sección trabajarás con imanes, cargas eléctricas, corriente e inducción electromagnética.<br>El objetivo es hacer visibles fenómenos que normalmente no se ven.</p><ul><li>Observa el efecto de las cargas y los campos.</li><li>Relaciona el resultado con situaciones de la vida cotidiana.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Electricidad 5: Campo magnético de un conductor con corriente</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con cargas eléctricas, corriente, campo magnético e inducción?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Todo conductor por el que circula corriente genera un campo magnético a su alrededor.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Todo conductor por el que circula corriente genera un campo magnético a su alrededor.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con cargas eléctricas, corriente, campo magnético e inducción?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Electricidad 6: Dibujar líneas de campo con pequeñas brújulas",
+      "shortDescription": "<p><b>«En la electricidad entran en juego las cargas y los campos!»</b><br>En esta sección trabajarás con imanes, cargas eléctricas, corriente e inducción electromagnética.<br>El objetivo es hacer visibles fenómenos que normalmente no se ven.</p><ul><li>Observa el efecto de las cargas y los campos.</li><li>Relaciona el resultado con situaciones de la vida cotidiana.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Electricidad 6: Dibujar líneas de campo con pequeñas brújulas</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con cargas eléctricas, corriente, campo magnético e inducción?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Pequeñas brújulas muestran la dirección del campo magnético.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Pequeñas brújulas muestran la dirección del campo magnético.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con cargas eléctricas, corriente, campo magnético e inducción?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Electricidad 7: Frotar un globo en el cabello y pegarlo a la pared",
+      "shortDescription": "<p><b>«En la electricidad entran en juego las cargas y los campos!»</b><br>En esta sección trabajarás con imanes, cargas eléctricas, corriente e inducción electromagnética.<br>El objetivo es hacer visibles fenómenos que normalmente no se ven.</p><ul><li>Observa el efecto de las cargas y los campos.</li><li>Relaciona el resultado con situaciones de la vida cotidiana.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Electricidad 7: Frotar un globo en el cabello y pegarlo a la pared</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con cargas eléctricas, corriente, campo magnético e inducción?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Al frotar el globo se separan cargas eléctricas; un globo cargado puede atraer la pared.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Al frotar el globo se separan cargas eléctricas; un globo cargado puede atraer la pared.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Al frotar el globo se separan cargas eléctricas; un globo cargado puede atraer la pared.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Electricidad 8: Hacer que dos varillas de plástico cargadas se repelan y se atraigan",
+      "shortDescription": "<p><b>«En la electricidad entran en juego las cargas y los campos!»</b><br>En esta sección trabajarás con imanes, cargas eléctricas, corriente e inducción electromagnética.<br>El objetivo es hacer visibles fenómenos que normalmente no se ven.</p><ul><li>Observa el efecto de las cargas y los campos.</li><li>Relaciona el resultado con situaciones de la vida cotidiana.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Electricidad 8: Hacer que dos varillas de plástico cargadas se repelan y se atraigan</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con cargas eléctricas, corriente, campo magnético e inducción?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Las cargas iguales se repelen y las cargas opuestas se atraen.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Las cargas iguales se repelen y las cargas opuestas se atraen.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Las cargas iguales se repelen y las cargas opuestas se atraen.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Electricidad 9: Construcción de un electroscopio sencillo",
+      "shortDescription": "<p><b>«En la electricidad entran en juego las cargas y los campos!»</b><br>En esta sección trabajarás con imanes, cargas eléctricas, corriente e inducción electromagnética.<br>El objetivo es hacer visibles fenómenos que normalmente no se ven.</p><ul><li>Observa el efecto de las cargas y los campos.</li><li>Relaciona el resultado con situaciones de la vida cotidiana.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Electricidad 9: Construcción de un electroscopio sencillo</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con cargas eléctricas, corriente, campo magnético e inducción?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Un electroscopio muestra la presencia de carga eléctrica mediante la separación de sus láminas.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Un electroscopio muestra la presencia de carga eléctrica mediante la separación de sus láminas.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Un electroscopio muestra la presencia de carga eléctrica mediante la separación de sus láminas.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Electricidad 10: Descargar un electroscopio mediante descarga",
+      "shortDescription": "<p><b>«En la electricidad entran en juego las cargas y los campos!»</b><br>En esta sección trabajarás con imanes, cargas eléctricas, corriente e inducción electromagnética.<br>El objetivo es hacer visibles fenómenos que normalmente no se ven.</p><ul><li>Observa el efecto de las cargas y los campos.</li><li>Relaciona el resultado con situaciones de la vida cotidiana.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Electricidad 10: Descargar un electroscopio mediante descarga</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con cargas eléctricas, corriente, campo magnético e inducción?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Mediante contacto o conexión a tierra se puede eliminar la carga sobrante.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Mediante contacto o conexión a tierra se puede eliminar la carga sobrante.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Mediante contacto o conexión a tierra se puede eliminar la carga sobrante.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Electricidad 11: Generar corriente moviendo un imán dentro de una bobina",
+      "shortDescription": "<p><b>«En la electricidad entran en juego las cargas y los campos!»</b><br>En esta sección trabajarás con imanes, cargas eléctricas, corriente e inducción electromagnética.<br>El objetivo es hacer visibles fenómenos que normalmente no se ven.</p><ul><li>Observa el efecto de las cargas y los campos.</li><li>Relaciona el resultado con situaciones de la vida cotidiana.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Electricidad 11: Generar corriente moviendo un imán dentro de una bobina</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con cargas eléctricas, corriente, campo magnético e inducción?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Mover un imán dentro de una bobina puede inducir tensión y corriente eléctrica.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Mover un imán dentro de una bobina puede inducir tensión y corriente eléctrica.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Mover un imán dentro de una bobina puede inducir tensión y corriente eléctrica.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Electricidad 12: Construir un transformador con dos bobinas y un núcleo de hierro",
+      "shortDescription": "<p><b>«En la electricidad entran en juego las cargas y los campos!»</b><br>En esta sección trabajarás con imanes, cargas eléctricas, corriente e inducción electromagnética.<br>El objetivo es hacer visibles fenómenos que normalmente no se ven.</p><ul><li>Observa el efecto de las cargas y los campos.</li><li>Relaciona el resultado con situaciones de la vida cotidiana.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Electricidad 12: Construir un transformador con dos bobinas y un núcleo de hierro</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con cargas eléctricas, corriente, campo magnético e inducción?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Mover un imán dentro de una bobina puede inducir tensión y corriente eléctrica.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Mover un imán dentro de una bobina puede inducir tensión y corriente eléctrica.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>Mover un imán dentro de una bobina puede inducir tensión y corriente eléctrica.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Teoría de la electricidad",
+      "shortDescription": "<p><b>«En la electricidad entran en juego las cargas y los campos!»</b><br>En esta sección trabajarás con imanes, cargas eléctricas, corriente e inducción electromagnética.<br>El objetivo es hacer visibles fenómenos que normalmente no se ven.</p><ul><li>Observa el efecto de las cargas y los campos.</li><li>Relaciona el resultado con situaciones de la vida cotidiana.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Teoría de la electricidad</u></b></p><p>En esta sección se explican de forma breve los conceptos básicos de cargas eléctricas, corriente, campo magnético e inducción. El objetivo es aclarar los términos y principios principales antes de realizar los experimentos.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de cargas eléctricas, corriente, campo magnético e inducción y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        }
+      ],
+      "schoolType": "Escuela comunitaria"
+    },
+    {
+      "title": "Tareas de electricidad",
+      "shortDescription": "<p><b>«En la electricidad entran en juego las cargas y los campos!»</b><br>En esta sección trabajarás con imanes, cargas eléctricas, corriente e inducción electromagnética.<br>El objetivo es hacer visibles fenómenos que normalmente no se ven.</p><ul><li>Observa el efecto de las cargas y los campos.</li><li>Relaciona el resultado con situaciones de la vida cotidiana.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "steps": [
+        {
+          "type": "aufgabe",
+          "content": "<p><b><u>Tareas de electricidad</u></b></p><p>Esta sección sirve para practicar y comprobar la comprensión. Las respuestas deben ser breves, precisas y apoyarse en las observaciones del experimento.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Tarea:</b><br>1. Describe el fenómeno observado.<br>2. Nombra el concepto físico relacionado.<br>3. Escribe un ejemplo de la vida cotidiana.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Tarea:</b><br>1. Describe el fenómeno observado.<br>2. Nombra el concepto físico relacionado.<br>3. Escribe un ejemplo de la vida cotidiana.</p>"
+        }
+      ],
+      "schoolType": "Escuela comunitaria"
+    },
+    {
+      "title": "Termodinámica 1.1: Sentir la temperatura",
+      "shortDescription": "<p><b>«En la teoría del calor seguimos la pista a la temperatura y la energía!»</b><br>En esta sección verás cómo se transfiere el calor, cómo se dilatan los materiales y qué significan los cambios de estado.<br>Los experimentos están pensados para observar directamente fenómenos térmicos.</p><ul><li>Distingue entre temperatura y calor.</li><li>Explica cómo afecta el calor a los materiales.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Termodinámica 1.1: Sentir la temperatura</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Termodinámica 1.2: ¿Cómo funciona un termómetro?",
+      "shortDescription": "<p><b>«En la teoría del calor seguimos la pista a la temperatura y la energía!»</b><br>En esta sección verás cómo se transfiere el calor, cómo se dilatan los materiales y qué significan los cambios de estado.<br>Los experimentos están pensados para observar directamente fenómenos térmicos.</p><ul><li>Distingue entre temperatura y calor.</li><li>Explica cómo afecta el calor a los materiales.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Termodinámica 1.2: ¿Cómo funciona un termómetro?</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Termodinámica 1.3: Del calor al movimiento",
+      "shortDescription": "<p><b>«En la teoría del calor seguimos la pista a la temperatura y la energía!»</b><br>En esta sección verás cómo se transfiere el calor, cómo se dilatan los materiales y qué significan los cambios de estado.<br>Los experimentos están pensados para observar directamente fenómenos térmicos.</p><ul><li>Distingue entre temperatura y calor.</li><li>Explica cómo afecta el calor a los materiales.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Termodinámica 1.3: Del calor al movimiento</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Termodinámica 1.4: ¿Cómo se infla solo un globo?",
+      "shortDescription": "<p><b>«En la teoría del calor seguimos la pista a la temperatura y la energía!»</b><br>En esta sección verás cómo se transfiere el calor, cómo se dilatan los materiales y qué significan los cambios de estado.<br>Los experimentos están pensados para observar directamente fenómenos térmicos.</p><ul><li>Distingue entre temperatura y calor.</li><li>Explica cómo afecta el calor a los materiales.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Termodinámica 1.4: ¿Cómo se infla solo un globo?</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Termodinámica 2.1.1: ¿Por qué flota el hielo?",
+      "shortDescription": "<p><b>«En la teoría del calor seguimos la pista a la temperatura y la energía!»</b><br>En esta sección verás cómo se transfiere el calor, cómo se dilatan los materiales y qué significan los cambios de estado.<br>Los experimentos están pensados para observar directamente fenómenos térmicos.</p><ul><li>Distingue entre temperatura y calor.</li><li>Explica cómo afecta el calor a los materiales.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Termodinámica 2.1.1: ¿Por qué flota el hielo?</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Termodinámica 2.1.2: A pesar del calor, sigue frío",
+      "shortDescription": "<p><b>«En la teoría del calor seguimos la pista a la temperatura y la energía!»</b><br>En esta sección verás cómo se transfiere el calor, cómo se dilatan los materiales y qué significan los cambios de estado.<br>Los experimentos están pensados para observar directamente fenómenos térmicos.</p><ul><li>Distingue entre temperatura y calor.</li><li>Explica cómo afecta el calor a los materiales.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Termodinámica 2.1.2: A pesar del calor, sigue frío</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>La evaporación puede extraer calor del entorno y producir enfriamiento.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Termodinámica 3.1.1: Cuando las rosas se doblan",
+      "shortDescription": "<p><b>«En la teoría del calor seguimos la pista a la temperatura y la energía!»</b><br>En esta sección verás cómo se transfiere el calor, cómo se dilatan los materiales y qué significan los cambios de estado.<br>Los experimentos están pensados para observar directamente fenómenos térmicos.</p><ul><li>Distingue entre temperatura y calor.</li><li>Explica cómo afecta el calor a los materiales.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Termodinámica 3.1.1: Cuando las rosas se doblan</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Termodinámica 3.1.2: Cómo el vapor vuelve a convertirse en agua",
+      "shortDescription": "<p><b>«En la teoría del calor seguimos la pista a la temperatura y la energía!»</b><br>En esta sección verás cómo se transfiere el calor, cómo se dilatan los materiales y qué significan los cambios de estado.<br>Los experimentos están pensados para observar directamente fenómenos térmicos.</p><ul><li>Distingue entre temperatura y calor.</li><li>Explica cómo afecta el calor a los materiales.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Termodinámica 3.1.2: Cómo el vapor vuelve a convertirse en agua</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>El vapor se condensa al enfriarse y vuelve a convertirse en agua líquida.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Termodinámica 3.1.3: Anticongelante",
+      "shortDescription": "<p><b>«En la teoría del calor seguimos la pista a la temperatura y la energía!»</b><br>En esta sección verás cómo se transfiere el calor, cómo se dilatan los materiales y qué significan los cambios de estado.<br>Los experimentos están pensados para observar directamente fenómenos térmicos.</p><ul><li>Distingue entre temperatura y calor.</li><li>Explica cómo afecta el calor a los materiales.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Termodinámica 3.1.3: Anticongelante</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Termodinámica 4.1.1: El alambre que se dobla",
+      "shortDescription": "<p><b>«En la teoría del calor seguimos la pista a la temperatura y la energía!»</b><br>En esta sección verás cómo se transfiere el calor, cómo se dilatan los materiales y qué significan los cambios de estado.<br>Los experimentos están pensados para observar directamente fenómenos térmicos.</p><ul><li>Distingue entre temperatura y calor.</li><li>Explica cómo afecta el calor a los materiales.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Termodinámica 4.1.1: El alambre que se dobla</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Los metales se dilatan al calentarse; esto puede hacer que un alambre se doble.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Termodinámica 5.1.1: Conducción del calor",
+      "shortDescription": "<p><b>«En la teoría del calor seguimos la pista a la temperatura y la energía!»</b><br>En esta sección verás cómo se transfiere el calor, cómo se dilatan los materiales y qué significan los cambios de estado.<br>Los experimentos están pensados para observar directamente fenómenos térmicos.</p><ul><li>Distingue entre temperatura y calor.</li><li>Explica cómo afecta el calor a los materiales.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Termodinámica 5.1.1: Conducción del calor</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Termodinámica 5.1.2: El termo",
+      "shortDescription": "<p><b>«En la teoría del calor seguimos la pista a la temperatura y la energía!»</b><br>En esta sección verás cómo se transfiere el calor, cómo se dilatan los materiales y qué significan los cambios de estado.<br>Los experimentos están pensados para observar directamente fenómenos térmicos.</p><ul><li>Distingue entre temperatura y calor.</li><li>Explica cómo afecta el calor a los materiales.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Termodinámica 5.1.2: El termo</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Un termo mantiene la temperatura al reducir conducción, convección y radiación.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Termodinámica 6.1.1: La calefacción central",
+      "shortDescription": "<p><b>«En la teoría del calor seguimos la pista a la temperatura y la energía!»</b><br>En esta sección verás cómo se transfiere el calor, cómo se dilatan los materiales y qué significan los cambios de estado.<br>Los experimentos están pensados para observar directamente fenómenos térmicos.</p><ul><li>Distingue entre temperatura y calor.</li><li>Explica cómo afecta el calor a los materiales.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Termodinámica 6.1.1: La calefacción central</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Termodinámica 6.1.2: La casa de vidrio",
+      "shortDescription": "<p><b>«En la teoría del calor seguimos la pista a la temperatura y la energía!»</b><br>En esta sección verás cómo se transfiere el calor, cómo se dilatan los materiales y qué significan los cambios de estado.<br>Los experimentos están pensados para observar directamente fenómenos térmicos.</p><ul><li>Distingue entre temperatura y calor.</li><li>Explica cómo afecta el calor a los materiales.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Termodinámica 6.1.2: La casa de vidrio</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>El vidrio deja entrar la luz y retiene parte del calor en el interior.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con temperatura, calor, dilatación, cambios de estado y transferencia de calor?</p>"
+        }
+      ]
+    },
+    {
+      "title": "Teoría del calor",
+      "shortDescription": "<p><b>«En la teoría del calor seguimos la pista a la temperatura y la energía!»</b><br>En esta sección verás cómo se transfiere el calor, cómo se dilatan los materiales y qué significan los cambios de estado.<br>Los experimentos están pensados para observar directamente fenómenos térmicos.</p><ul><li>Distingue entre temperatura y calor.</li><li>Explica cómo afecta el calor a los materiales.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Teoría del calor</u></b></p><p>En esta sección se explican de forma breve los conceptos básicos de temperatura, calor, dilatación, cambios de estado y transferencia de calor. El objetivo es aclarar los términos y principios principales antes de realizar los experimentos.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de temperatura, calor, dilatación, cambios de estado y transferencia de calor y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de temperatura, calor, dilatación, cambios de estado y transferencia de calor y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de temperatura, calor, dilatación, cambios de estado y transferencia de calor y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de temperatura, calor, dilatación, cambios de estado y transferencia de calor y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de temperatura, calor, dilatación, cambios de estado y transferencia de calor y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de temperatura, calor, dilatación, cambios de estado y transferencia de calor y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de temperatura, calor, dilatación, cambios de estado y transferencia de calor y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de temperatura, calor, dilatación, cambios de estado y transferencia de calor y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de temperatura, calor, dilatación, cambios de estado y transferencia de calor y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de temperatura, calor, dilatación, cambios de estado y transferencia de calor y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de temperatura, calor, dilatación, cambios de estado y transferencia de calor y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de temperatura, calor, dilatación, cambios de estado y transferencia de calor y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de temperatura, calor, dilatación, cambios de estado y transferencia de calor y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de temperatura, calor, dilatación, cambios de estado y transferencia de calor y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        }
+      ],
+      "schoolType": "Escuela comunitaria"
+    },
+    {
+      "title": "Tareas sobre el calor",
+      "shortDescription": "<p><b>«En la teoría del calor seguimos la pista a la temperatura y la energía!»</b><br>En esta sección verás cómo se transfiere el calor, cómo se dilatan los materiales y qué significan los cambios de estado.<br>Los experimentos están pensados para observar directamente fenómenos térmicos.</p><ul><li>Distingue entre temperatura y calor.</li><li>Explica cómo afecta el calor a los materiales.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "aufgabe",
+          "content": "<p><b><u>Tareas sobre el calor</u></b></p><p>Esta sección sirve para practicar y comprobar la comprensión. Las respuestas deben ser breves, precisas y apoyarse en las observaciones del experimento.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Tarea:</b><br>1. Describe el fenómeno observado.<br>2. Nombra el concepto físico relacionado.<br>3. Escribe un ejemplo de la vida cotidiana.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Tarea:</b><br>1. Describe el fenómeno observado.<br>2. Nombra el concepto físico relacionado.<br>3. Escribe un ejemplo de la vida cotidiana.</p>"
+        }
+      ]
+    },
+    {
+      "title": "Óptica 1: Propagación básica de la luz",
+      "shortDescription": "<p><b>«En la óptica, la luz muestra su camino!»</b><br>En esta sección conocerás la propagación de la luz, la sombra, la reflexión, la refracción, los colores y la polarización.<br>Con materiales sencillos se puede observar el comportamiento de la luz.</p><ul><li>Investiga el camino de la luz.</li><li>Relaciona tus observaciones con fenómenos cotidianos.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Óptica 1: Propagación básica de la luz</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>En un medio uniforme, la luz se propaga normalmente en línea recta.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Óptica 2: Absorción de la luz por los colores",
+      "shortDescription": "<p><b>«En la óptica, la luz muestra su camino!»</b><br>En esta sección conocerás la propagación de la luz, la sombra, la reflexión, la refracción, los colores y la polarización.<br>Con materiales sencillos se puede observar el comportamiento de la luz.</p><ul><li>Investiga el camino de la luz.</li><li>Relaciona tus observaciones con fenómenos cotidianos.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Óptica 2: Absorción de la luz por los colores</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Los colores absorben parte de la luz y reflejan otra; el color visible es la luz reflejada.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Óptica 3: Sombra, sombra total y penumbra",
+      "shortDescription": "<p><b>«En la óptica, la luz muestra su camino!»</b><br>En esta sección conocerás la propagación de la luz, la sombra, la reflexión, la refracción, los colores y la polarización.<br>Con materiales sencillos se puede observar el comportamiento de la luz.</p><ul><li>Investiga el camino de la luz.</li><li>Relaciona tus observaciones con fenómenos cotidianos.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Óptica 3: Sombra, sombra total y penumbra</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>La sombra se forma cuando un objeto bloquea el camino de la luz; el tamaño de la fuente determina la penumbra.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Óptica 4: Hacer visibles los colores del espectro",
+      "shortDescription": "<p><b>«En la óptica, la luz muestra su camino!»</b><br>En esta sección conocerás la propagación de la luz, la sombra, la reflexión, la refracción, los colores y la polarización.<br>Con materiales sencillos se puede observar el comportamiento de la luz.</p><ul><li>Investiga el camino de la luz.</li><li>Relaciona tus observaciones con fenómenos cotidianos.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Óptica 4: Hacer visibles los colores del espectro</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>La luz blanca está formada por diferentes colores y puede descomponerse en un espectro.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Óptica 5: Reflexión de la luz",
+      "shortDescription": "<p><b>«En la óptica, la luz muestra su camino!»</b><br>En esta sección conocerás la propagación de la luz, la sombra, la reflexión, la refracción, los colores y la polarización.<br>Con materiales sencillos se puede observar el comportamiento de la luz.</p><ul><li>Investiga el camino de la luz.</li><li>Relaciona tus observaciones con fenómenos cotidianos.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Óptica 5: Reflexión de la luz</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>En la reflexión, el ángulo de incidencia es igual al ángulo de reflexión.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Óptica 6: Reflexión de la luz en un espejo cóncavo",
+      "shortDescription": "<p><b>«En la óptica, la luz muestra su camino!»</b><br>En esta sección conocerás la propagación de la luz, la sombra, la reflexión, la refracción, los colores y la polarización.<br>Con materiales sencillos se puede observar el comportamiento de la luz.</p><ul><li>Investiga el camino de la luz.</li><li>Relaciona tus observaciones con fenómenos cotidianos.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Óptica 6: Reflexión de la luz en un espejo cóncavo</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>Un espejo cóncavo concentra los rayos de luz y puede producir imágenes aumentadas o enfocadas.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Óptica 7: Refracción de la luz en el agua",
+      "shortDescription": "<p><b>«En la óptica, la luz muestra su camino!»</b><br>En esta sección conocerás la propagación de la luz, la sombra, la reflexión, la refracción, los colores y la polarización.<br>Con materiales sencillos se puede observar el comportamiento de la luz.</p><ul><li>Investiga el camino de la luz.</li><li>Relaciona tus observaciones con fenómenos cotidianos.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Óptica 7: Refracción de la luz en el agua</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Óptica 8: Lupa con una gota de agua",
+      "shortDescription": "<p><b>«En la óptica, la luz muestra su camino!»</b><br>En esta sección conocerás la propagación de la luz, la sombra, la reflexión, la refracción, los colores y la polarización.<br>Con materiales sencillos se puede observar el comportamiento de la luz.</p><ul><li>Investiga el camino de la luz.</li><li>Relaciona tus observaciones con fenómenos cotidianos.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Óptica 8: Lupa con una gota de agua</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Óptica 9: Óptica de los colores",
+      "shortDescription": "<p><b>«En la óptica, la luz muestra su camino!»</b><br>En esta sección conocerás la propagación de la luz, la sombra, la reflexión, la refracción, los colores y la polarización.<br>Con materiales sencillos se puede observar el comportamiento de la luz.</p><ul><li>Investiga el camino de la luz.</li><li>Relaciona tus observaciones con fenómenos cotidianos.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Óptica 9: Óptica de los colores</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>El color de los objetos depende de qué longitudes de onda absorben y cuáles reflejan.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>El color de los objetos depende de qué longitudes de onda absorben y cuáles reflejan.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Óptica 10: Polarización de la luz",
+      "shortDescription": "<p><b>«En la óptica, la luz muestra su camino!»</b><br>En esta sección conocerás la propagación de la luz, la sombra, la reflexión, la refracción, los colores y la polarización.<br>Con materiales sencillos se puede observar el comportamiento de la luz.</p><ul><li>Investiga el camino de la luz.</li><li>Relaciona tus observaciones con fenómenos cotidianos.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "schoolType": "Escuela comunitaria",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Óptica 10: Polarización de la luz</u></b></p><p><b>Lo que necesitas:</b><br>Prepara los materiales sencillos de laboratorio o de uso cotidiano necesarios para este experimento y comprueba la seguridad antes de empezar.</p><p><b>Así se hace:</b><br>Realiza el experimento paso a paso, observa los cambios con atención y anota los resultados.</p>"
+        },
+        {
+          "type": "aufgabe",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>¿Qué observas?</b><br>• ¿Qué cambia durante el experimento?<br>• ¿En qué parte se ve la diferencia con mayor claridad?<br>• ¿Cómo se relaciona la observación con luz, sombra, reflexión, refracción, color y polarización?</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Explicación:</b><br>En la polarización se filtra u ordena la dirección de oscilación de la onda luminosa.<br>El resultado muestra que una observación sencilla puede hacer comprensible una ley o un principio físico.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Relación con la vida cotidiana:</b><br>En la polarización se filtra u ordena la dirección de oscilación de la onda luminosa.<br>Se pueden encontrar ejemplos parecidos en casa, en la escuela, en el deporte, en el transporte o en la tecnología cotidiana.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        }
+      ]
+    },
+    {
+      "title": "Teoría de la óptica",
+      "shortDescription": "<p><b>«En la óptica, la luz muestra su camino!»</b><br>En esta sección conocerás la propagación de la luz, la sombra, la reflexión, la refracción, los colores y la polarización.<br>Con materiales sencillos se puede observar el comportamiento de la luz.</p><ul><li>Investiga el camino de la luz.</li><li>Relaciona tus observaciones con fenómenos cotidianos.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "steps": [
+        {
+          "type": "text",
+          "content": "<p><b><u>Teoría de la óptica</u></b></p><p>En esta sección se explican de forma breve los conceptos básicos de luz, sombra, reflexión, refracción, color y polarización. El objetivo es aclarar los términos y principios principales antes de realizar los experimentos.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de luz, sombra, reflexión, refracción, color y polarización y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<br></br>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de luz, sombra, reflexión, refracción, color y polarización y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de luz, sombra, reflexión, refracción, color y polarización y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de luz, sombra, reflexión, refracción, color y polarización y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de luz, sombra, reflexión, refracción, color y polarización y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de luz, sombra, reflexión, refracción, color y polarización y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de luz, sombra, reflexión, refracción, color y polarización y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de luz, sombra, reflexión, refracción, color y polarización y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de luz, sombra, reflexión, refracción, color y polarización y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de luz, sombra, reflexión, refracción, color y polarización y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de luz, sombra, reflexión, refracción, color y polarización y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de luz, sombra, reflexión, refracción, color y polarización y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Nota teórica:</b><br>Este experimento muestra uno de los conceptos principales de luz, sombra, reflexión, refracción, color y polarización y ayuda a comprenderlo mediante una observación directa.<br>Al explicar, relaciona siempre la observación, el concepto físico y un ejemplo cotidiano.</p>"
+        }
+      ],
+      "schoolType": "Escuela comunitaria"
+    },
+    {
+      "title": "Tareas de óptica",
+      "shortDescription": "<p><b>«En la óptica, la luz muestra su camino!»</b><br>En esta sección conocerás la propagación de la luz, la sombra, la reflexión, la refracción, los colores y la polarización.<br>Con materiales sencillos se puede observar el comportamiento de la luz.</p><ul><li>Investiga el camino de la luz.</li><li>Relaciona tus observaciones con fenómenos cotidianos.</li></ul><p><b>¡Que disfrutes investigando y probando! Te lo desea el Laboratorio Cotidiano.</b></p>",
+      "subject": "Física",
+      "gradeLevel": "7",
+      "steps": [
+        {
+          "type": "aufgabe",
+          "content": "<p><b><u>Tareas de óptica</u></b></p><p>Esta sección sirve para practicar y comprobar la comprensión. Las respuestas deben ser breves, precisas y apoyarse en las observaciones del experimento.</p>"
+        },
+        {
+          "type": "text",
+          "content": "<p><b>Tarea:</b><br>1. Describe el fenómeno observado.<br>2. Nombra el concepto físico relacionado.<br>3. Escribe un ejemplo de la vida cotidiana.</p>"
+        },
+        {
+          "type": "merksatz",
+          "content": "<p><b>Tarea:</b><br>1. Describe el fenómeno observado.<br>2. Nombra el concepto físico relacionado.<br>3. Escribe un ejemplo de la vida cotidiana.</p>"
+        }
+      ],
+      "schoolType": "Escuela comunitaria"
+    }
+  ]

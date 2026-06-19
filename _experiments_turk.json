@@ -1,0 +1,2306 @@
+[
+    {
+        "title": "Mekanik 1.1: Taşları vurma",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 1.1: Taşları vurma</u></b></p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Neye ihtiyacın var:</b><br>\n• Basit sınıf malzemeleri, küçük cisimler, cetvel, ip, tahta parçası veya öğretmenin hazırladığı deney düzeneği.<br>\n• Gözlemleri not almak için kâğıt ve kalem.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Nasıl yapılır:</b><br>\n1. Deney düzeneğini öğretmenin yönergelerine göre hazırla.<br>\n2. Deneyi dikkatli, düzenli ve güvenli biçimde uygula.<br>\n3. Ne olduğunu gözlemle ve önemli noktaları not et.<br>\n4. Sonucu sınıfta fiziksel kavramlarla tartış.</p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 1.2: Hızlı rulo",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 1.2: Hızlı rulo</u></b></p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Neye ihtiyacın var:</b><br>\n• Basit sınıf malzemeleri, küçük cisimler, cetvel, ip, tahta parçası veya öğretmenin hazırladığı deney düzeneği.<br>\n• Gözlemleri not almak için kâğıt ve kalem.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Nasıl yapılır:</b><br>\n1. Deney düzeneğini öğretmenin yönergelerine göre hazırla.<br>\n2. Deneyi dikkatli, düzenli ve güvenli biçimde uygula.<br>\n3. Ne olduğunu gözlemle ve önemli noktaları not et.<br>\n4. Sonucu sınıfta fiziksel kavramlarla tartış.</p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 1.3: Yumurta testi",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 1.3: Yumurta testi</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 1.4: Asansörde taş",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 1.4: Asansörde taş</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 1.5: Üfleyerek uzaklaştır",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 1.5: Üfleyerek uzaklaştır</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 1.6: Gevşek çekiç başı",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 1.6: Gevşek çekiç başı</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 2.1: Süper başparmak",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 2.1: Süper başparmak</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 2.2: Tırmanan kutu",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 2.2: Tırmanan kutu</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 2.3: Gümüş toplar",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 2.3: Gümüş toplar</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 2.4: Ağırlık merkezi süpürgesi",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 2.4: Ağırlık merkezi süpürgesi</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 3.1: Zıp zıp top tahterevallisi",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 3.1: Zıp zıp top tahterevallisi</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 3.2: Palanga",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 3.2: Palanga</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 3.3: Sürtünme tahtası",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 3.3: Sürtünme tahtası</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 3.4: Yuvarlanan tahta",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 3.4: Yuvarlanan tahta</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 4.1: Bidon terazisi",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 4.1: Bidon terazisi</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 4.2: Kancalı tahterevalli",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 4.2: Kancalı tahterevalli</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 5.1: Renk lekesi",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 5.1: Renk lekesi</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 5.2: Kâğıt taş gibi",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 5.2: Kâğıt taş gibi</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 5.3: Hızlı tepki",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 5.3: Hızlı tepki</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 5.4: Lokomotif",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 5.4: Lokomotif</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 5.5: Zıplayan top",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 5.5: Zıplayan top</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Neye ihtiyacın var:</b><br>\n• Basit sınıf malzemeleri, küçük cisimler, cetvel, ip, tahta parçası veya öğretmenin hazırladığı deney düzeneği.<br>\n• Gözlemleri not almak için kâğıt ve kalem.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 6.1: Sihirli top",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 6.1: Sihirli top</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 6.2: Madeni para yolu",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 6.2: Madeni para yolu</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Mekanik 6.3: Roket bilimi",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik 6.3: Roket bilimi</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            }
+        ],
+        "schoolType": "Ortak okul"
+    },
+    {
+        "title": "Mekanik teori",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Mekanik teori</u></b></p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Nasıl yapılır:</b><br>\n1. Deney düzeneğini öğretmenin yönergelerine göre hazırla.<br>\n2. Deneyi dikkatli, düzenli ve güvenli biçimde uygula.<br>\n3. Ne olduğunu gözlemle ve önemli noktaları not et.<br>\n4. Sonucu sınıfta fiziksel kavramlarla tartış.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            }
+        ],
+        "schoolType": "Ortak okul"
+    },
+    {
+        "title": "Mekanik alıştırmaları",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "steps": [
+            {
+                "type": "görev",
+                "content": "<p><b><u>Mekanik alıştırmaları</u></b></p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Neye ihtiyacın var:</b><br>\n• Basit sınıf malzemeleri, küçük cisimler, cetvel, ip, tahta parçası veya öğretmenin hazırladığı deney düzeneği.<br>\n• Gözlemleri not almak için kâğıt ve kalem.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney hareket, kuvvet, denge, sürtünme ve enerjiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            }
+        ],
+        "schoolType": "Ortak okul"
+    },
+    {
+        "title": "Elektrik 1: Manyetik alan çizgilerini demir talaşıyla görünür yapmak",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Elektrik 1: Manyetik alan çizgilerini demir talaşıyla görünür yapmak</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Elektrik 2: Bir mıknatıs kaç ataşı tutabilir?",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Elektrik 2: Bir mıknatıs kaç ataşı tutabilir?</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Nasıl yapılır:</b><br>\n1. Deney düzeneğini öğretmenin yönergelerine göre hazırla.<br>\n2. Deneyi dikkatli, düzenli ve güvenli biçimde uygula.<br>\n3. Ne olduğunu gözlemle ve önemli noktaları not et.<br>\n4. Sonucu sınıfta fiziksel kavramlarla tartış.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Neye ihtiyacın var:</b><br>\n• Mıknatıs, iletken tel, bobin, pil, pusula veya öğretmenin hazırladığı güvenli elektrik düzeneği.<br>\n• Gözlemleri not almak için kâğıt ve kalem.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Elektrik 3: Çiviyi sürterek mıknatıslamak",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Elektrik 3: Çiviyi sürterek mıknatıslamak</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Nasıl yapılır:</b><br>\n1. Deney düzeneğini öğretmenin yönergelerine göre hazırla.<br>\n2. Deneyi dikkatli, düzenli ve güvenli biçimde uygula.<br>\n3. Ne olduğunu gözlemle ve önemli noktaları not et.<br>\n4. Sonucu sınıfta fiziksel kavramlarla tartış.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Neye ihtiyacın var:</b><br>\n• Mıknatıs, iletken tel, bobin, pil, pusula veya öğretmenin hazırladığı güvenli elektrik düzeneği.<br>\n• Gözlemleri not almak için kâğıt ve kalem.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Elektrik 4: Çekiç darbeleriyle mıknatıslığı gidermek",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Elektrik 4: Çekiç darbeleriyle mıknatıslığı gidermek</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Nasıl yapılır:</b><br>\n1. Deney düzeneğini öğretmenin yönergelerine göre hazırla.<br>\n2. Deneyi dikkatli, düzenli ve güvenli biçimde uygula.<br>\n3. Ne olduğunu gözlemle ve önemli noktaları not et.<br>\n4. Sonucu sınıfta fiziksel kavramlarla tartış.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Elektrik 5: Üzerinden akım geçen iletkenin manyetik alanı",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Elektrik 5: Üzerinden akım geçen iletkenin manyetik alanı</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Nasıl yapılır:</b><br>\n1. Deney düzeneğini öğretmenin yönergelerine göre hazırla.<br>\n2. Deneyi dikkatli, düzenli ve güvenli biçimde uygula.<br>\n3. Ne olduğunu gözlemle ve önemli noktaları not et.<br>\n4. Sonucu sınıfta fiziksel kavramlarla tartış.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Elektrik 6: Alan çizgilerini küçük pusulalarla çizmek",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Elektrik 6: Alan çizgilerini küçük pusulalarla çizmek</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Nasıl yapılır:</b><br>\n1. Deney düzeneğini öğretmenin yönergelerine göre hazırla.<br>\n2. Deneyi dikkatli, düzenli ve güvenli biçimde uygula.<br>\n3. Ne olduğunu gözlemle ve önemli noktaları not et.<br>\n4. Sonucu sınıfta fiziksel kavramlarla tartış.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Elektrik 7: Balonu saça sürtüp duvara yapıştırmak",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Elektrik 7: Balonu saça sürtüp duvara yapıştırmak</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Nasıl yapılır:</b><br>\n1. Deney düzeneğini öğretmenin yönergelerine göre hazırla.<br>\n2. Deneyi dikkatli, düzenli ve güvenli biçimde uygula.<br>\n3. Ne olduğunu gözlemle ve önemli noktaları not et.<br>\n4. Sonucu sınıfta fiziksel kavramlarla tartış.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Elektrik 8: İki yüklü plastik çubuğu itmek ve çekmek",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Elektrik 8: İki yüklü plastik çubuğu itmek ve çekmek</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Nasıl yapılır:</b><br>\n1. Deney düzeneğini öğretmenin yönergelerine göre hazırla.<br>\n2. Deneyi dikkatli, düzenli ve güvenli biçimde uygula.<br>\n3. Ne olduğunu gözlemle ve önemli noktaları not et.<br>\n4. Sonucu sınıfta fiziksel kavramlarla tartış.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Elektrik 9: Basit bir elektroskop yapımı",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Elektrik 9: Basit bir elektroskop yapımı</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Nasıl yapılır:</b><br>\n1. Deney düzeneğini öğretmenin yönergelerine göre hazırla.<br>\n2. Deneyi dikkatli, düzenli ve güvenli biçimde uygula.<br>\n3. Ne olduğunu gözlemle ve önemli noktaları not et.<br>\n4. Sonucu sınıfta fiziksel kavramlarla tartış.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Elektrik 10: Elektroskobu boşaltarak deşarj etmek",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Elektrik 10: Elektroskobu boşaltarak deşarj etmek</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Nasıl yapılır:</b><br>\n1. Deney düzeneğini öğretmenin yönergelerine göre hazırla.<br>\n2. Deneyi dikkatli, düzenli ve güvenli biçimde uygula.<br>\n3. Ne olduğunu gözlemle ve önemli noktaları not et.<br>\n4. Sonucu sınıfta fiziksel kavramlarla tartış.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Elektrik 11: Bir bobinde mıknatısı hareket ettirerek akım üretmek",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Elektrik 11: Bir bobinde mıknatısı hareket ettirerek akım üretmek</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Nasıl yapılır:</b><br>\n1. Deney düzeneğini öğretmenin yönergelerine göre hazırla.<br>\n2. Deneyi dikkatli, düzenli ve güvenli biçimde uygula.<br>\n3. Ne olduğunu gözlemle ve önemli noktaları not et.<br>\n4. Sonucu sınıfta fiziksel kavramlarla tartış.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Elektrik 12: İki bobin ve demir çekirdekle transformatör yapmak",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Elektrik 12: İki bobin ve demir çekirdekle transformatör yapmak</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Nasıl yapılır:</b><br>\n1. Deney düzeneğini öğretmenin yönergelerine göre hazırla.<br>\n2. Deneyi dikkatli, düzenli ve güvenli biçimde uygula.<br>\n3. Ne olduğunu gözlemle ve önemli noktaları not et.<br>\n4. Sonucu sınıfta fiziksel kavramlarla tartış.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            }
+        ]
+    },
+    {
+        "title": "Elektrik teorisi",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Elektrik teorisi</u></b></p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            }
+        ],
+        "schoolType": "Ortak okul"
+    },
+    {
+        "title": "Elektrik alıştırmaları",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "steps": [
+            {
+                "type": "görev",
+                "content": "<p><b><u>Elektrik alıştırmaları</u></b></p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Neye ihtiyacın var:</b><br>\n• Mıknatıs, iletken tel, bobin, pil, pusula veya öğretmenin hazırladığı güvenli elektrik düzeneği.<br>\n• Gözlemleri not almak için kâğıt ve kalem.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney elektrik, yükler, akım ve manyetik alanlarla ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            }
+        ],
+        "schoolType": "Ortak okul"
+    },
+    {
+        "title": "Isı bilgisi 1.1: Sıcaklığı hissetmek",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Isı bilgisi 1.1: Sıcaklığı hissetmek</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Isı bilgisi 1.2: Termometre nasıl çalışır?",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Isı bilgisi 1.2: Termometre nasıl çalışır?</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Isı bilgisi 1.3: Isıdan harekete",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Isı bilgisi 1.3: Isıdan harekete</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Isı bilgisi 1.4: Bir balon kendi kendine nasıl şişer?",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Isı bilgisi 1.4: Bir balon kendi kendine nasıl şişer?</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Isı bilgisi 2.1.1: Buz neden yüzer?",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Isı bilgisi 2.1.1: Buz neden yüzer?</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Isı bilgisi 2.1.2: Sıcağa rağmen soğuk kalır",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Isı bilgisi 2.1.2: Sıcağa rağmen soğuk kalır</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Isı bilgisi 3.1.1: Güller büküldüğünde",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Isı bilgisi 3.1.1: Güller büküldüğünde</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Isı bilgisi 3.1.2: Buhar nasıl yeniden su olur?",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Isı bilgisi 3.1.2: Buhar nasıl yeniden su olur?</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Isı bilgisi 3.1.3: Donmaya karşı koruma",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Isı bilgisi 3.1.3: Donmaya karşı koruma</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Isı bilgisi 4.1.1: Bükülen tel",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Isı bilgisi 4.1.1: Bükülen tel</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Isı bilgisi 5.1.1: Isı iletimi",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Isı bilgisi 5.1.1: Isı iletimi</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Neye ihtiyacın var:</b><br>\n• Su, kap, termometre, balon, buz veya öğretmenin hazırladığı güvenli ısı düzeneği.<br>\n• Gözlemleri not almak için kâğıt ve kalem.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Isı bilgisi 5.1.2: Termos",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Isı bilgisi 5.1.2: Termos</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Isı bilgisi 6.1.1: Merkezi ısıtma",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Isı bilgisi 6.1.1: Merkezi ısıtma</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Isı bilgisi 6.1.2: Sera",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Isı bilgisi 6.1.2: Sera</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            }
+        ]
+    },
+    {
+        "title": "Isı bilgisi teorisi",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Isı bilgisi teorisi</u></b></p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Nasıl yapılır:</b><br>\n1. Deney düzeneğini öğretmenin yönergelerine göre hazırla.<br>\n2. Deneyi dikkatli, düzenli ve güvenli biçimde uygula.<br>\n3. Ne olduğunu gözlemle ve önemli noktaları not et.<br>\n4. Sonucu sınıfta fiziksel kavramlarla tartış.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            }
+        ],
+        "schoolType": "Ortak okul"
+    },
+    {
+        "title": "Isı bilgisi alıştırmaları",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "görev",
+                "content": "<p><b><u>Isı bilgisi alıştırmaları</u></b></p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Neye ihtiyacın var:</b><br>\n• Su, kap, termometre, balon, buz veya öğretmenin hazırladığı güvenli ısı düzeneği.<br>\n• Gözlemleri not almak için kâğıt ve kalem.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney sıcaklık, ısı aktarımı ve maddelerin ısıyla değişimiyle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            }
+        ]
+    },
+    {
+        "title": "Optik 1: Işığın temel yayılması",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Optik 1: Işığın temel yayılması</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney ışığın yayılması, yansıması, kırılması ve renklerle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Optik 2: Renklerin ışığı soğurması",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Optik 2: Renklerin ışığı soğurması</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney ışığın yayılması, yansıması, kırılması ve renklerle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Optik 3: Gölge, tam gölge ve yarı gölge",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Optik 3: Gölge, tam gölge ve yarı gölge</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney ışığın yayılması, yansıması, kırılması ve renklerle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Optik 4: Tayf renklerini görünür yapmak",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Optik 4: Tayf renklerini görünür yapmak</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney ışığın yayılması, yansıması, kırılması ve renklerle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Optik 5: Işığın yansıması",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Optik 5: Işığın yansıması</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney ışığın yayılması, yansıması, kırılması ve renklerle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Optik 6: Çukur aynada ışık yansıması",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Optik 6: Çukur aynada ışık yansıması</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney ışığın yayılması, yansıması, kırılması ve renklerle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Optik 7: Suda ışığın kırılması",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Optik 7: Suda ışığın kırılması</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney ışığın yayılması, yansıması, kırılması ve renklerle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Optik 8: Su damlası merceği",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Optik 8: Su damlası merceği</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney ışığın yayılması, yansıması, kırılması ve renklerle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Neye ihtiyacın var:</b><br>\n• Işık kaynağı, ayna, mercek, kâğıt, su kabı veya öğretmenin hazırladığı optik düzeneği.<br>\n• Gözlemleri not almak için kâğıt ve kalem.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Optik 9: Renklerin optiği",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Optik 9: Renklerin optiği</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Nasıl yapılır:</b><br>\n1. Deney düzeneğini öğretmenin yönergelerine göre hazırla.<br>\n2. Deneyi dikkatli, düzenli ve güvenli biçimde uygula.<br>\n3. Ne olduğunu gözlemle ve önemli noktaları not et.<br>\n4. Sonucu sınıfta fiziksel kavramlarla tartış.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney ışığın yayılması, yansıması, kırılması ve renklerle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Optik 10: Işığın polarizasyonu",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "schoolType": "Ortak okul",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Optik 10: Işığın polarizasyonu</u></b></p>"
+            },
+            {
+                "type": "görev",
+                "content": "<p><b>Ne fark ediyorsun?</b><br>\n• Deney sırasında hangi değişiklikleri gözlemliyorsun?<br>\n• Sonuç beklediğin gibi mi?<br>\n• Gözlemini fiziksel olarak nasıl açıklarsın?</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Nasıl yapılır:</b><br>\n1. Deney düzeneğini öğretmenin yönergelerine göre hazırla.<br>\n2. Deneyi dikkatli, düzenli ve güvenli biçimde uygula.<br>\n3. Ne olduğunu gözlemle ve önemli noktaları not et.<br>\n4. Sonucu sınıfta fiziksel kavramlarla tartış.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney ışığın yayılması, yansıması, kırılması ve renklerle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<br></br>"
+            }
+        ]
+    },
+    {
+        "title": "Optik teorisi",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "steps": [
+            {
+                "type": "metin",
+                "content": "<p><b><u>Optik teorisi</u></b></p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney ışığın yayılması, yansıması, kırılması ve renklerle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Nasıl yapılır:</b><br>\n1. Deney düzeneğini öğretmenin yönergelerine göre hazırla.<br>\n2. Deneyi dikkatli, düzenli ve güvenli biçimde uygula.<br>\n3. Ne olduğunu gözlemle ve önemli noktaları not et.<br>\n4. Sonucu sınıfta fiziksel kavramlarla tartış.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney ışığın yayılması, yansıması, kırılması ve renklerle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney ışığın yayılması, yansıması, kırılması ve renklerle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney ışığın yayılması, yansıması, kırılması ve renklerle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney ışığın yayılması, yansıması, kırılması ve renklerle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Günlük yaşamla bağlantı:</b><br>\nBu olay günlük hayatta da görülebilir. Deneydeki fiziksel ilkeyi evde, okulda, trafikte, teknolojide veya doğada nerede fark edebileceğini düşün.</p>"
+            }
+        ],
+        "schoolType": "Ortak okul"
+    },
+    {
+        "title": "Optik alıştırmaları",
+        "shortDescription": "<p><b>\"Mekanikte her şey hareket eder!\"</b><br>\n    Burada hareket, kuvvetler ve hız ele alınır.<br>\n    Bir şeyi ittiğinde, çektiğinde ya da düşürdüğünde ne olur?<br>\n    Bir top neden yuvarlanır ve neden bir süre sonra durur?<br>\n    Bu sayfada basit deneyler bulacaksın.<br>\n    Bunları okulda kolayca deneyebilirsin.<br>\n    Ayrıca sana şunları da açıklıyoruz:</p>\n\n    <ul>\n        <li>Bu sırada fizikte neler olduğunu.</li>\n        <li>Bunu günlük hayatta nerede görebileceğini.</li>\n    </ul>\n\n    <p><b>\"Araştırırken ve denerken iyi eğlenceler! AlltagsLabor ekibiniz\"</b></p>",
+        "subject": "Fizik",
+        "gradeLevel": "7",
+        "steps": [
+            {
+                "type": "görev",
+                "content": "<p><b><u>Optik alıştırmaları</u></b></p>"
+            },
+            {
+                "type": "metin",
+                "content": "<p><b>Neye ihtiyacın var:</b><br>\n• Işık kaynağı, ayna, mercek, kâğıt, su kabı veya öğretmenin hazırladığı optik düzeneği.<br>\n• Gözlemleri not almak için kâğıt ve kalem.</p>"
+            },
+            {
+                "type": "akılda_tut",
+                "content": "<p><b>Açıklama:</b><br>\nBu deney ışığın yayılması, yansıması, kırılması ve renklerle ilgilidir.<br>\nGözlemlediğin sonuçları neden-sonuç ilişkisiyle açıkla ve günlük yaşamdan benzer bir örnek düşün.</p>"
+            }
+        ],
+        "schoolType": "Ortak okul"
+    }
+]
